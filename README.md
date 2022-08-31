@@ -1,2 +1,2 @@
-# QuickBus
-It is a Website, where You can Book your Bus Tickets With In Few Steps.
+# Quickbus
+Quickbus is the platform of booking ticket of bus.
